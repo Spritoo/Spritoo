@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shawky</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spritoo&label=Profile%20views&color=0e75b6&style=flat" alt="spritoo" /> </p>
+<h1 align="left"> ⭐ About me: </h1>
 
 - 🌱 I’m currently learning **Spring , Swift**
-
 - 👯 I’m looking to collaborate on **open source projects**
-
 - 📫 How to reach me **foda.sh.moh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-shawky-0740271b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-shawky-0740271b6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sprito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sprito" height="30" width="40" /></a>
